@@ -1,6 +1,4 @@
 /*Zachary Firth
-Data Structures & Algorithm Analysis COP3530
-7/5/22
 Program: TwoLargest
 Purpose: To find the two largest integers in an array by going through each integer and comparing it to the 
 current largest and second largest value
