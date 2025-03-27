@@ -1,2 +1,2 @@
-#Total Cost of Plant(s) Based on Factors (County, tax/discount, etc.)
-User can enter the quantity of a plant, county name (palm for palm beach, dade for miama dade, and broward), cost of each plant, and the plant quantity.  The output of this includes the user inputs as well as the net cost, tax rate, discount and discount rate, the purchase's tax, and the total cost.
+#Two Largest Numbers in an Array
+Creates an array depending on the size the user enters, then creates numbers for each array slot selected by the user.  After entering all the numbers, this algorithm will go through each number and compare them with each other.  At the end, the largest 2 numbers will be printed.
